@@ -215,6 +215,7 @@ public class Kaltura {
 		System.out.println("Error Code: " + errCode);
 		System.out.println("Error Msg: " + errMsg);
 		System.out.println("Error Object Type: " + errObjectType);
+		System.out.println("========================");
 
 		
        
